@@ -14,7 +14,7 @@
          <br/>
          - 💬 Ask me about <strong>JavaScript, Java, Html, CSS</strong> -
          <br/>
-         - 📫 How to reach me: <a href="https://discord.gg/ZMGUqDbuQT">Danipro_2007#7465</a> on Discord -
+         - 📫 How to reach me: <a href="https://discord.gg/ZMGUqDbuQT">Danidev819 🎃#7465</a> on Discord -
          <br/>
          <p align="center">                     
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danidev819&theme=radical&hide_border=true" />

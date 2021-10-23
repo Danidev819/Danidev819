@@ -22,7 +22,7 @@
       </td>
       <td>
       <br/><br/>
-      <h2 align="center">📊 Danipro's Github Statistics 📊 </h2>   
+      <h2 align="center">📊 Danidev819's Github Statistics 📊 </h2>   
          <br/><br/><br/>
          <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Danidev819-TG&theme=radical&hide_border=true" />   
          <br/><br/><br/>

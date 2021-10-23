@@ -10,23 +10,23 @@
          <br/><br/>
          - 🔭 I’m currently working on <strong><a href="https://discord.gg/MHq9WmFAJT">LyDark Studios</a></strong> -
          <br/>
-         - 🌱 I’m currently learning <strong>Python</strong> -
+         - 🌱 I’m currently learning <strong>Python and PHP</strong> -
          <br/>
          - 💬 Ask me about <strong>JavaScript, Java, Html, CSS</strong> -
          <br/>
          - 📫 How to reach me: <a href="https://discord.gg/ZMGUqDbuQT">Danidev819 🎃#7465</a> on Discord -
          <br/>
          <p align="center">                     
-             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danidev819&theme=radical&hide_border=true" />
+             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danidev819-TG&theme=radical&hide_border=true" />
          </p>  
       </td>
       <td>
       <br/><br/>
       <h2 align="center">📊 Danipro's Github Statistics 📊 </h2>   
          <br/><br/><br/>
-         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Danidev819&theme=radical&hide_border=true" />   
+         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Danidev819-TG&theme=radical&hide_border=true" />   
          <br/><br/><br/>
-         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Danidev819&theme=radical&show_icons=true&hide_border=true" />
+         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Danidev819-TG&theme=radical&show_icons=true&hide_border=true" />
          <br/><br/><br/>         
       </td>
    </tr>

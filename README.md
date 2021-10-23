@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hola! Bienvenid@ a mi GitHub, Soy Danipro_2007!</h2>
+<h2 align="center">👋 Hola! Bienvenid@ a mi GitHub!</h2>
 <p align="center">
 <table align="center">
    <tr>

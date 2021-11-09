@@ -8,7 +8,7 @@
          <br/><br/>
             <a href="https://discord.gg/ZMGUqDbuQT"><img align="center" src="https://discordapp.com/api/guilds/882674628789682266/widget.png?style=banner3" alt="Discord Banner2"/></a>
          <br/><br/>
-         - 🔭 I’m currently working on <strong><a href="https://discord.gg/lydark">LyDark Studios</a></strong> -
+         - 🔭 I’m currently working on <strong><a href="https://discord.gg/Vq4DkF9a5E">LyDark Studios</a></strong> -
          <br/>
          - 🌱 I’m currently learning <strong>Python and PHP</strong> -
          <br/>

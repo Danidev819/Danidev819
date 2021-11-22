@@ -17,16 +17,16 @@
          - 📫 How to reach me: <a href="https://discord.gg/ZMGUqDbuQT">Danidev819 🎃#7465</a> on Discord -
          <br/>
          <p align="center">                     
-             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danidev819-TG&theme=radical&hide_border=true" />
+             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danidev819&theme=radical&hide_border=true" />
          </p>  
       </td>
       <td>
       <br/><br/>
       <h2 align="center">📊 Danidev819's Github Statistics 📊 </h2>   
          <br/><br/><br/>
-         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Danidev819-TG&theme=radical&hide_border=true" />   
+         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Danidev819&theme=radical&hide_border=true" />   
          <br/><br/><br/>
-         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Danidev819-TG&theme=radical&show_icons=true&hide_border=true" />
+         <img align="center" src="https://github-readme-stats.vercel.app/api?username=Danidev819&theme=radical&show_icons=true&hide_border=true" />
          <br/><br/><br/>         
       </td>
    </tr>

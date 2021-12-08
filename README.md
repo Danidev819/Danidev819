@@ -8,7 +8,7 @@
          <br/><br/>
             <a href="https://discord.gg/ZMGUqDbuQT"><img align="center" src="https://discordapp.com/api/guilds/882674628789682266/widget.png?style=banner3" alt="Discord Banner2"/></a>
          <br/><br/>
-         - 🌱 I’m currently learning <strong>Python and PHP</strong> -
+         - 🌱 I’m currently learning <strong>CyberSecurity</strong> -
          <br/>
          - 💬 Ask me about <strong>JavaScript, Java, Html, CSS</strong> -
          <br/>

@@ -18,9 +18,10 @@
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danidev819&theme=radical&hide_border=true" />
          </p>  
       </td>
+      <img align='right' src="https://discord.c99.nl/widget/theme-4/328893900942999554.png"/>
       <td>
       <br/><br/>
-         <img align='right' src="https://discord.c99.nl/widget/theme-4/328893900942999554.png"/>
+         
          <br/><br/><br/>
          <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Danidev819&theme=radical&hide_border=true" />   
          <br/><br/><br/>

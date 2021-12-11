@@ -18,8 +18,8 @@
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danidev819&theme=radical&hide_border=true" />
          </p>  
       </td>
-      <img align='right' src="https://discord.c99.nl/widget/theme-4/328893900942999554.png"/>
       <td>
+   <img align='right' src="https://discord.c99.nl/widget/theme-4/328893900942999554.png"/>
       <br/><br/>
          
          <br/><br/><br/>

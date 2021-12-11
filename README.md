@@ -1,5 +1,5 @@
-<img align='right' src="https://discord.c99.nl/widget/theme-4/328893900942999554.png"/>
 <h2 align="center">👋 Hola! Bienvenid@ a mi GitHub!</h2>
+<img align='right' src="https://discord.c99.nl/widget/theme-4/328893900942999554.png"/>
 <p align="center">
 <table align="center">
    <tr>

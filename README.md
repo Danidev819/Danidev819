@@ -1,3 +1,4 @@
+<img align='right' src="https://discord.c99.nl/widget/theme-4/328893900942999554.png"/>
 <h2 align="center">👋 Hola! Bienvenid@ a mi GitHub!</h2>
 <p align="center">
 <table align="center">
@@ -21,7 +22,6 @@
       <td>
       
       <br/><br/>
-   <img align='right' src="https://discord.c99.nl/widget/theme-4/328893900942999554.png"/>
       <h2 align="center"> Danidev819's Github Statistics  </h2>   
          <br/><br/><br/>
          <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Danidev819&theme=radical&hide_border=true" />   

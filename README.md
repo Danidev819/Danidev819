@@ -19,8 +19,8 @@
         public Dani() {
         super("Dani", "Tierra");
 
-        this.addLanguage("Java", "HTML", "Javascript", "CSS");
-        this.addExperience("3 Años+(java)", "2 Años+(JavaScript)", "6 Meses+(HTML)", "1 año (CSS)", "5 años+ total");
+        this.addLanguage("Java", "Javascript", "CSS");
+        this.addExperience("5 Años+(java)", "2 Años+(JavaScript)", "1 año (CSS)",);
      }
    }
 

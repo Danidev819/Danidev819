@@ -93,5 +93,5 @@ public abstract class Humano {
 
 </details>
 
-Discord / How to contact me = https://discord.gg/ZMGUqDbuQT
+Discord / How to contact me = https://discord.gg/nFFR4R4mTX
 

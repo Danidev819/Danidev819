@@ -95,3 +95,5 @@ public abstract class Humano {
 
 Discord / How to contact me = https://discord.gg/nFFR4R4mTX
 
+
+![My github activity graph](https://activity-graph.herokuapp.com/graph?username=danidev819&theme=react-dark)

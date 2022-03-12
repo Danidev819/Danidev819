@@ -78,7 +78,7 @@ public abstract class Humano {
 
 <!--START_SECTION:waka-->
 
-
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,html,css,javascript,typescript,csharp,bash,powershell&includeNames=true"></p>
 
 
 <!--END_SECTION:waka-->

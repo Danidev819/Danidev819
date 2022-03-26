@@ -19,8 +19,8 @@
         public Dani() {
         super("Dani", "Tierra");
 
-        this.addLanguage("Java", "Javascript", "CSS");
-        this.addExperience("5 Años+(java)", "2 Años+(JavaScript)", "1 año (CSS)",);
+        this.addLanguage("Java", "Javascript", "Python");
+        this.addExperience("5 Años+(java)", "2 Años+(JavaScript)", "1 mes (Python)");
      }
    }
 
@@ -32,7 +32,7 @@
     
 	@Override
 	public void codingStuff() {
-		String[] learning = ["Java", "Node.js / Discord.js", "CyberSecurity"];
+		String[] learning = ["Java", "Node.js / Discord.js", "Python"];
 		String tryingTo = "Programar lo mejor posible en clientes/plugins/mods de Minecraft";
 	}
 	

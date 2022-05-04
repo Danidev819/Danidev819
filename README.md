@@ -19,8 +19,8 @@
         public Dani() {
         super("Dani", "Tierra");
 
-        this.addLanguage("Java", "Javascript", "Python");
-        this.addExperience("5 Años+(java)", "2 Años+(JavaScript)", "1 mes (Python)");
+        this.addLanguage("Java", "Javascript", "Python", "C#", "C++");
+        this.addExperience("5 Años+(java)", "2 Años+(JavaScript)", "2 meses (Python), 1 mes (C# y C++)");
      }
    }
 
@@ -32,7 +32,7 @@
     
 	@Override
 	public void codingStuff() {
-		String[] learning = ["Java", "Node.js / Discord.js", "Python"];
+		String[] learning = ["Java", "Node.js / Discord.js", "Python", "C#", "C++"];
 		String tryingTo = "Programar lo mejor posible en clientes/plugins/mods de Minecraft";
 	}
 	
@@ -78,7 +78,7 @@ public abstract class Humano {
 
 <!--START_SECTION:waka-->
 
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,html,css,javascript,typescript,csharp,python,bash,powershell&includeNames=true"></p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/skills?names=java,html,css,javascript,typescript,csharp,cpp,python,bash,powershell&includeNames=true"></p>
 
 
 <!--END_SECTION:waka-->

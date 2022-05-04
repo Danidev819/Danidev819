@@ -47,7 +47,7 @@ public abstract class Humano {
   private Set<String> languages = new HashSet<>();
   private Set<String> experiences = new HashSet<>();
 
-  public Human(String username, String placeilive) {
+  public Humano(String username, String placeilive) {
       this.name = username;
       this.country = placeilive;
   }

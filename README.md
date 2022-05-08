@@ -20,7 +20,6 @@
         super("Dani", "Tierra");
 
         this.addLanguage("Java", "Javascript", "Python", "C#", "C++");
-        this.addExperience("5 Años+(java)", "2 Años+(JavaScript)", "2 meses (Python), 1 mes (C# y C++)");
      }
    }
 
@@ -56,9 +55,6 @@ public abstract class Humano {
       this.languages.addAll(language);
   }
   
-  public void addExperience(String... experience) {
-      this.experiences.addAll(experience);
-  }
 }
 ```
 
